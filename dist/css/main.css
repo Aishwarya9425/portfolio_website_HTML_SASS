@@ -372,9 +372,9 @@ img {
   grid-gap: 1.2rem;
 }
 
-#about-a .bio-image {
+/* #about-a .bio-image {
   grid-area: bioimage;
-}
+} */
 
 #about-a .bio {
   grid-area: bio;

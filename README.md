@@ -1,3 +1,3 @@
 # portfolio_website_HTML_SASS
 
-![image](https://user-images.githubusercontent.com/51038336/233383627-8cea28b6-dbaf-4986-921f-8be7f99274a6.png)
+![image](https://user-images.githubusercontent.com/51038336/233796974-e71eb25a-dc17-4861-94d3-8cca810eaea0.png)
